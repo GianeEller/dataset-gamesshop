@@ -10,4 +10,4 @@
 - [ ] Quais são os produtos mais populares em cada país
 - [ ] Como otimizar o processo de transporte e logística até o momento da venda
 
-Para esse desafio, utilizei o Qwen.Ai para obter os resultados e insights
+Para esse desafio, utilizei o Qwen.Ai para obter os resultados e insights, neste caso a versão Qwen3-235B-A22B
