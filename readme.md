@@ -9,3 +9,5 @@
 - [ ] Transformar dados de vendas em informações relevantes para a fabricante
 - [ ] Quais são os produtos mais populares em cada país
 - [ ] Como otimizar o processo de transporte e logística até o momento da venda
+
+Para esse desafio, utilizei o Qwen.Ai para obter os resultados e insights
