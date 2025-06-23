@@ -1,0 +1,5 @@
+﻿Tipo de Gráfico,Finalidade
+Gráfico de Linha (por data),Analisar tendências de vendas ao longo do tempo
+Boxplot por país,Identificar padrões de compra por região
+Gráfico de Pizza (faturamento),Ver a contribuição relativa de cada produto/canal
+Heatmap por país x produto,Identificar combinações com maior demanda
